@@ -15,9 +15,6 @@ clone_url: "https://github.com/Make-Your-School/mks-SeeedStudio-Grove_PIR_Motion
 repo_prefix: "mks"
 repo_part: "Grove_PIR_Motion_Sensor"
 embedded_example_file: "examples/Grove_PIR_Motion_Sensor_minimal/Grove_PIR_Motion_Sensor_minimal.ino"
-title: 'Bewegungsmelder'
-status: 'active'
-difficulty: 'recommend'
 ---
 
 
